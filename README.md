@@ -1,3 +1,4 @@
+
 # 🎓 Seminar Hall Booking System
 
 A **web-based application** that allows users to book seminar halls efficiently and helps administrators manage hall bookings seamlessly.  
